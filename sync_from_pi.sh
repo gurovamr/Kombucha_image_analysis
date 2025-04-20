@@ -2,8 +2,8 @@
 
 PI_USER="gurov"
 PI_HOST="160.85.152.248"
-REMOTE_DIR="/home/gurov/Monitoring_kombucha_growth/data/"
-LOCAL_DIR="/c/Users/gurov/Python_Projects/BA/data/Experiment_1/"
+REMOTE_DIR="/home/gurov/Monitoring_kombucha_growth/data/Experiment_3/"
+LOCAL_DIR="/c/Users/gurov/Python_Projects/BA/data/Experiment_3/"
 
 # Get list of remote files
 REMOTE_FILES=$(ssh ${PI_USER}@${PI_HOST} "ls ${REMOTE_DIR}")
