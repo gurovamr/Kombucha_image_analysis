@@ -1,3 +1,0 @@
-nohup: ignoring input
-      0 [main] bash 2637 dofork: child -1 - forked process 35600 died unexpectedly, retry 0, exit code 0xC000026B, errno 11
-/c/Users/gurov/Python_Projects/BA/run_daily_at_8pm.sh: fork: retry: Resource temporarily unavailable
